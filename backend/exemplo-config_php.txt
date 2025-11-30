@@ -1,0 +1,9 @@
+// tem que criar um arquivo config.php na raiz da pasta backend com as essas informações 
+
+
+<?php
+define('DB_HOST', 'localhost:3306');
+define('DB_NAME', 'horta_comunitaria');
+define('DB_USER', 'root');
+define('DB_PASS', 'root'); // Sua senha
+?>
